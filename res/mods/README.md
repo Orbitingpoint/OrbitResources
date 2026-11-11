@@ -1,0 +1,1 @@
+Ai was used to create live-resize.zip and ai asisted in server-redirect.zip
